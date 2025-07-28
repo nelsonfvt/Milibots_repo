@@ -1,2 +1,6 @@
 # Milibots_repo
-Repositorio con detalles para el club de robótica UMNG
+Documentos del club de robotica Milibots - UMNG
+
+## Manuales de construción
+
+## Reglamentos de competencia
